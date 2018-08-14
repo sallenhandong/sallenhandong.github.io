@@ -1,21 +1,26 @@
-
 ------
 
 这是一篇随笔，记录自己心情。
+
 &nbsp;&nbsp;&nbsp;&nbsp;又是夜晚12点，感觉又是难眠夜。又点了两杯蜂蜜柚子茶，哈哈，好像是喝上瘾了，本来想戒呢。
+
 &nbsp;&nbsp;&nbsp;&nbsp;从辞职到现在也快3个月了，上个礼拜把之前的项目交付了，最近在谈两个项目，不过基本上是凉凉的感觉么。
+
 &nbsp;&nbsp;&nbsp;&nbsp;最近的状态还算可以，在入weex坑，又把node复习了一遍，还有vue，基本上每天都会写代码，感觉还挺不错。
+
 &nbsp;&nbsp;&nbsp;&nbsp;好吧，还想写写别的，后面慢慢在写吧。
 
 ------
 <center>
-<img src="http://otfgrdvwb.bkt.clouddn.com/1534263988.png" width="25%" height="25%" />
+<img src="http://otfgrdvwb.bkt.clouddn.com/1534263988.png" width="50px" height="50px" />
 扫描二维码分享文章
 </center>
 <center>
-<img src="http://otfgrdvwb.bkt.clouddn.com/WechatIMG116.jpeg" width="25%" height="25%" />
+<img src="http://otfgrdvwb.bkt.clouddn.com/WechatIMG116.jpeg" width="50px" height="50px" />
 赞赏支持
 </center>
 感谢您花费时间阅读这篇文章！祝您在这里记录、阅读、分享愉快！
+
 作者 [@slimsallen]像一阵风,流浪天涯。
+
 2018 年 08月 15日   
