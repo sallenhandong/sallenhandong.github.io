@@ -11,16 +11,4 @@
 &nbsp;&nbsp;&nbsp;&nbsp;好吧，还想写写别的，后面慢慢在写吧。
 
 ------
-<center>
-<img src="http://otfgrdvwb.bkt.clouddn.com/1534263988.png" width="50px" height="50px" />
-扫描二维码分享文章
-</center>
-<center>
-<img src="http://otfgrdvwb.bkt.clouddn.com/WechatIMG116.jpeg" width="50px" height="50px" />
-赞赏支持
-</center>
-感谢您花费时间阅读这篇文章！祝您在这里记录、阅读、分享愉快！
 
-作者 [@slimsallen]像一阵风,流浪天涯。
-
-2018 年 08月 15日   
