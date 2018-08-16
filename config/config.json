@@ -19,13 +19,13 @@
       "date": "2018/08/15"
     },
     {
-      "gitname": "suibi.md",
+      "gitname": "weex入坑记录.md",
       "type": 2,
       "title": "weex入坑记录",
       "tags": ["weex"],
-      "pic": "http://otfgrdvwb.bkt.clouddn.com/%E5%88%9B%E4%B8%9A%E8%83%8C%E6%99%AF.png",
+      "pic": "http://weex.apache.org/cn/guide/images/flow.png",
       "info": "Weex 是一个使用 Web 开发体验来开发高性能原生应用的框架",
-      "date": "2018/08/15"
+      "date": "2018/08/16"
     }
     
   ],
