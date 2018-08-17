@@ -40,9 +40,10 @@ rather than at the true class …
 ```
 利用运行时，生成一个对象的子类，并生成子类对象，并替换原来对象的isa指针，且重写了set方法。
 ####四、KVO的缺陷
-KVO很强大，但他的缺点也很明显
+KVO很强大，但他的缺点也很明显  
+</br>
 
-1.只能重写 `-observeValueForKeyPath:ofObject:change:contex `这个方法 来获得通知,不能使用自定义的`selector`， 想要传一个`block `更是不可能 ，而且还要处理父类的情况 父类同样观察一个同样的属性的情况 ，但是有时候并不知道父类 是不是对这个消息有兴趣。
-
+1.只能重写 `-observeValueForKeyPath:ofObject:change:contex `这个方法 来获得通知,不能使用自定义的`selector`， 想要传一个`block `更是不可能 ，而且还要处理父类的情况 父类同样观察一个同样的属性的情况 ，但是有时候并不知道父类 是不是对这个消息有兴趣。 
+</br>
 2.父类和子类同时存在KVO时，很容易出现对同一个`keyPath`进行两次`removeObserver`操作，从而导致程序`crash`。要避免这个问题，就需要区分出`KVO`是`self`注册的，还是`superClass`注册的，我们可以在 `-addObserver:forKeyPath:options:context:`和`-removeObserver:forKeyPath:context`这两个方法中传入不同的`context`进行区分。
 
