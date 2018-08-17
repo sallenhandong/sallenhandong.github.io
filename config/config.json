@@ -19,13 +19,13 @@
       "date": "2018/08/15"
     },
     {
-      "gitname": "weex入坑记录.md",
+      "gitname": "ioskvo.md",
       "type": 2,
-      "title": "weex入坑记录",
-      "tags": ["weex"],
-      "pic": "http://otfgrdvwb.bkt.clouddn.com/weex.png",
-      "info": "Weex 是一个使用 Web 开发体验来开发高性能原生应用的框架",
-      "date": "2018/08/16"
+      "title": "IOS KVO原理解析与应用",
+      "tags": ["ios","kvo"],
+      "pic": "http://otfgrdvwb.bkt.clouddn.com/timg.jpeg",
+      "info": "KVO，即：Key-Value Observing，是Objective-C对观察者模式的实现",
+      "date": "2018/08/18"
     }
     
   ],
