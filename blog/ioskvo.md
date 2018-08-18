@@ -9,7 +9,7 @@ KVO，即：```Key-Value Observing```，是Objective-C对观察者模式的实�
 #### 1、使用KVO
 1.注册观察者，指定被观察对象的属性： 
 
-	[_people addObserver:self forKeyPath:@"name" options:NSKeyValueObservingOptionOld | NSKeyValueObservingOptionNew context:nil];
+    [_people addObserver:self forKeyPath:@"name" options:NSKeyValueObservingOptionOld | NSKeyValueObservingOptionNew context:nil];
 2.在观察者中实现以下回调方法：
 ```
 - (void)observeValueForKeyPath:(NSString *)keyPath  
@@ -76,12 +76,11 @@ rather than at the true class …
  [self.myprofile.dataArr addObject:@"slim"];
 ```
 通过监听数组发现，是没有触发的通知的，因为重写了set方法。  
-我们可以利用kvc实现对数组的监听
-
+我们可以利用kvc实现对数组的监听  
 ```
  [[self.myprofile mutableArrayValueForKeyPath:@"dataArr"] addObject:@"slim"];
-```
-![](https://user-gold-cdn.xitu.io/2018/8/18/1654b14f25299ae6?w=1276&h=462&f=jpeg&s=99423)
+```  
+![](https://user-gold-cdn.xitu.io/2018/8/18/1654b14f25299ae6?w=1276&h=462&f=jpeg&s=99423)  
 #### 4.多级路径属性
 `Myprofile`类里又包含了`MyDetail`类  
 `Mydetail`创建了`content`属性
@@ -99,7 +98,7 @@ rather than at the true class …
     
     return keySet;
 }
-```
+```  
 打印结果:
 ![](https://user-gold-cdn.xitu.io/2018/8/18/1654b27bab329ea2?w=1158&h=338&f=jpeg&s=63551)
 #### 四、KVO的缺陷
