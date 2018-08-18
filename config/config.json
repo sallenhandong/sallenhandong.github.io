@@ -20,7 +20,7 @@
     },
     {
       "gitname": "ioskvo.md",
-      "type": 2,
+      "type": 0,
       "title": "IOS KVO原理解析与应用",
       "tags": ["ios","kvo"],
       "pic": "http://otfgrdvwb.bkt.clouddn.com/timg.jpeg",
