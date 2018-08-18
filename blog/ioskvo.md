@@ -80,7 +80,7 @@ rather than at the true class …
 
 ```
  [[self.myprofile mutableArrayValueForKeyPath:@"dataArr"] addObject:@"slim"];
- ```
+```
 ![](https://user-gold-cdn.xitu.io/2018/8/18/1654b14f25299ae6?w=1276&h=462&f=jpeg&s=99423)
 #### 4.多级路径属性
 `Myprofile`类里又包含了`MyDetail`类  
