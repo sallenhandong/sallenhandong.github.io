@@ -2,7 +2,7 @@
   "d": [
     {
       "gitname": "markdown.md",
-      "type": 9,
+      "type": 10,
       "title": "MarkDown语法教程",
       "tags": ["文章", "JS"],
       "pic": "http://otfgrdvwb.bkt.clouddn.com/markdown.png",
@@ -26,7 +26,17 @@
       "pic": "http://otfgrdvwb.bkt.clouddn.com/timg.jpeg",
       "info": "KVO，即：Key-Value Observing，是Objective-C对观察者模式的实现",
       "date": "2018/08/18"
+    },
+    {
+      "gitname": "createBlog.md",
+      "type": 9,
+      "title": "Github + Vue 快速生成博客",
+      "tags": ["vue"],
+      "pic": "http://otfgrdvwb.bkt.clouddn.com/WechatIMG122.jpeg",
+      "info": "Github + Vue 快速生成博客",
+      "date": "2018/08/18"
     }
+
     
   ],
   "t": [
@@ -75,11 +85,15 @@
         "name":"MongoDB",
         "count":0,
         "type":8
+      },{
+        "name":"Vue",
+        "count":1,
+        "type":9
       },
         {
         "name":"其他",
         "count":1,
-        "type":9
+        "type":10
       }]
     }
     
