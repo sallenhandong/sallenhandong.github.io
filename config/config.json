@@ -35,6 +35,15 @@
       "pic": "http://otfgrdvwb.bkt.clouddn.com/WechatIMG122.jpeg",
       "info": "Github + Vue 快速生成博客",
       "date": "2018/08/18"
+    },{
+      "gitname": "iosperformance.md",
+      "type": 0,
+      "title": "IOS性能优化篇",
+      "tags": ["ios"],
+      "pic": "http://otfgrdvwb.bkt.clouddn.com/creative-designer-photographer-workspace-desk-setup_free_stock_photos_picjumbo_P1000512-1570x1047.png",
+      "info": "好的app应该有好的性能流畅度，本篇文章就大概讲一下ios性能优化。",
+      "date": "2018/08/20"
+
     }
 
     
@@ -43,7 +52,7 @@
     {
       "tags": [{
         "name":"iOS",
-        "count":1,
+        "count":2,
         "type":0
       }, 
         {
