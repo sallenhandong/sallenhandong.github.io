@@ -44,6 +44,15 @@
       "info": "好的app应该有好的性能流畅度，本篇文章就大概讲一下ios性能优化。",
       "date": "2018/08/20"
 
+    },{
+      "gitname": "iosgcd.md",
+      "type": 0,
+      "title": "IOS GCD详解",
+      "tags": ["ios","gcd","多线程"],
+      "pic": "",
+      "info": "Grand Central Dispatch（GCD)是异步执行任务的技术之一,一般将应用程序中记述的线程管理用的代码在系统级中实现.",
+      "date": "2018/08/23"
+
     }
 
     
@@ -52,7 +61,7 @@
     {
       "tags": [{
         "name":"iOS",
-        "count":2,
+        "count":3,
         "type":0
       }, 
         {
